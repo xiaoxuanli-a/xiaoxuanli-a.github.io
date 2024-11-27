@@ -1,7 +1,7 @@
 ---
 title: "Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery"
 collection: publications
-category: Publications
+category: publications
 permalink: /publication/2024-11-27-multi-llm-cd
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024/11/27
