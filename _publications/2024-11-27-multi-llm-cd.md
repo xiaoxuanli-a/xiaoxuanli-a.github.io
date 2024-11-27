@@ -1,5 +1,6 @@
 ---
 title: "Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Discovery"
+author: Xiaoxuan Li, Yao Liu, Ruoyu Wang and Lina Yao
 collection: publications
 category: publications
 permalink: /publication/2024-11-27-multi-llm-cd
