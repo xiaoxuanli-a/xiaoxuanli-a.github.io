@@ -3,7 +3,7 @@ title: "Regularized Multi-LLMs Collaboration for Enhanced Score-based Causal Dis
 collection: publications
 category: publications
 permalink: /publication/2024-11-27-multi-llm-cd
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2024/11/27
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
